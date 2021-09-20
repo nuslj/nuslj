@@ -25,6 +25,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?logo=linux&labelColor=fff&logoColor=000)
 
 ### 🏠 Home Automation & Self Hosting
+![LOXONE](https://img.shields.io/badge/LOXONE-green)
+
 
 
 <!--
